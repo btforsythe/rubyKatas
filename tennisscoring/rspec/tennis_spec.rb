@@ -1,4 +1,4 @@
-require_relative 'tennis'
+require_relative '../tennis'
 
 RSpec.describe TennisMatch, "#score" do
 	before(:each) do
